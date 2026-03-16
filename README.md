@@ -1,6 +1,7 @@
 (팀원 소개 이미지)-> 각자 작성하시면 최종으로 만들기
 
 프로젝트 구조
+```
 sparta-git-cowork/
 ├── index.html          # 팀원 목록 페이지
 ├── members/           # 팀원 정보 JSON 파일 디렉토리
@@ -12,6 +13,7 @@ sparta-git-cowork/
 │   ├── member5.json  # 템플릿 5 (데이터 분석가)
 │   └── example.json   # 예시 팀원 정보
 └── image/             # 이미지 파일 디렉토리
+```
 
 아래는 한명씩 순서대로, 간결하게 적어봅시다. (예시)
 # 홍길동

@@ -20,9 +20,9 @@
     ""
   ],
   "skills": [
-    { "name": "HTML", "progress": 0 },
-    { "name": "CSS", "progress": 0 },
-    { "name": "JavaScript", "progress": 0 },
+    { "name": "C", "progress": 30 },
+    { "name": "Java", "progress": 30 },
+    { "name": "SQL", "progress": 10 },
     { "name": "React", "progress": 0 },
     { "name": "Node.js", "progress": 0 }
   ],

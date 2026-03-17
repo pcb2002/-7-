@@ -1,0 +1,17 @@
+{
+  "id": "silverThunder09",
+  "name": "전은기",
+  "subName": "",
+  "profileImage": "image/github.svg",
+  "introduction": {
+    "quote": "서버 , 백엔드 개발자가 되고 싶습니다"
+  },
+  "info": {
+    "resolution": "6개월동안 열심히 하겠습니다!"
+  },
+  "strengths": [
+    "문제 해결 능력",
+    "끈기와 책임감",
+    "효율적인 의사소통"
+  ]
+}

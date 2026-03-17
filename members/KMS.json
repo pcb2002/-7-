@@ -1,0 +1,17 @@
+{
+  "id": "kera9960",
+  "name": "김민성",
+  "subName": "",
+  "profileImage": "image/github.svg",
+  "introduction": {
+    "quote": "Java를 활용하여 백엔드 개발을 배우고 있습니다."
+  },
+  "info": {
+    "resolution": "함께 도전하고 성장하는 과정에서 큰 성취를 이루고 싶습니다."
+  },
+  "strengths": [
+    "문제 분석력",
+    "끈기와 집중력",
+    "성실함"
+  ]
+}

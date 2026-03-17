@@ -1,0 +1,17 @@
+{
+  "id": "sirisiyesiri",
+  "name": "라예실",
+  "subName": "",
+  "profileImage": "image/github.svg",
+  "introduction": {
+    "quote": "낯을 많이 가려서 조용하지만 사람을 좋아합니다. 말 많이 걸어주시면 기쁩니다."
+  },
+  "info": {
+    "resolution": "스파르타 부트캠프를 통해서 백엔드 개발자라고 당당히 소개할 수 있게 되고 싶습니다."
+  },
+  "strengths": [
+    "문제 해결 능력",
+    "끈기와 책임감",
+    "나보다 협업을 우선함"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mavubsa3-dev",
+  "name": "이찬서",
+  "subName": "",
+  "profileImage": "image/github.svg",
+  "introduction": {
+    "quote": "백엔드 개발자가 되고 싶은 이찬서입니다."
+  },
+  "info": {
+    "resolution": "JAVA와 SPRING을 완벽하게 이해하겠습니다."
+  },
+  "strengths": [
+    "적극적인 의사소통",
+    "끈기와 책임감",
+    "배려와 상호존중"
+  ]
+}

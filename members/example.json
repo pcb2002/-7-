@@ -1,68 +1,17 @@
 {
-  "id": "example",
-  "name": "김르탄",
-  "subName": "풀스택 개발자",
-  "profileImage": "image/profile_image.png",
+  "id": "githubID",
+  "name": "홍길동",
+  "subName": "",
+  "profileImage": "image/github.svg",
   "introduction": {
-    "quote": "변화에 빠르게 적응하는 개발자, 김르탄입니다.",
-    "detail": "다이내믹한 기업 문화와 빠른 성장에 매력을 느꼈습니다. 저의 창의적이고 유연한 사고로 팀에 신선한 아이디어를 제공하고 싶습니다. 함께 도전하고 성장하는 과정에서 큰 성취를 이루고 싶습니다."
+    "quote": "본인 자기 소개"
   },
   "info": {
-    "description": "JavaScript를 활용하여 React/Node.js 풀스택 개발을 하고 있습니다.",
-    "birthday": "2000.08.15",
-    "location": "서울 중랑구",
-    "email": "jiwoong.choi.dev@gmail.com",
-    "phone": "010-0000-0000"
+    "resolution": "포부"
   },
   "strengths": [
-    "의사소통",
-    "도전 정신",
-    "리더십"
-  ],
-  "skills": [
-    { "name": "HTML", "progress": 3 },
-    { "name": "CSS", "progress": 10 },
-    { "name": "JavaScript", "progress": 15 },
-    { "name": "React", "progress": 0 },
-    { "name": "Node.js", "progress": 0 }
-  ],
-  "licenses": [
-    "SQLD 자격증",
-    "ADsP 자격증"
-  ],
-  "education": [
-    {
-      "name": "스파르타 고등학교",
-      "period": "2013.03.02 ~ 2016.02.14",
-      "location": "서울시 중랑구"
-    },
-    {
-      "name": "스파르타 대학교",
-      "period": "2016.03.02 ~ 2020.02.20",
-      "gpa": "4.35",
-      "location": "서울시 은평구"
-    }
-  ],
-  "experience": [
-    {
-      "period": "6개월",
-      "company": "팀스파르타",
-      "term": "2023.01~2023.06",
-      "team": "콘텐츠팀, 콘텐츠 프로듀서",
-      "task": "프론트엔드 개발 및 유지보수",
-      "project": {
-        "name": "고객 관리 시스템 개선 프로젝트",
-        "term": "2023.02~2023.05",
-        "detail": "React를 사용한 대시보드 UI 개선 및 성능 최적화"
-      }
-    }
-  ],
-  "projects": [
-    {
-      "title": "프로젝트1",
-      "description": "유학생 커뮤니티 플랫폼 개발을 목표로 하였습니다. 유학생들이 서로 정보를 공유하고 교류할 수 있도록 게시판, 채팅, 이벤트 관리 기능을 구현했습니다.",
-      "image": "image/p1.png",
-      "link": "project.html"
-    }
+    "문제 해결 능력",
+    "끈기와 책임감",
+    "효율적인 의사소통"
   ]
 }

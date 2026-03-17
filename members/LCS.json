@@ -1,0 +1,58 @@
+{
+  "id": "mavubsa3-dev",
+  "name": "이찬서",
+  "subName": "백엔드 개발자",
+  "profileImage": "",
+  "introduction": {
+    "quote": "백엔드 개발자를 희망하는 이찬서입니다.",
+    "detail": "빠르게 성장해서 회사와 팀의 성과에 기여하는 개발자가 되도록 노력하겠습니다."
+  },
+  "info": {
+    "description": "JAVA와 SPRING을 이용해 백엔드 개발을 공부하고 있습니다.",
+    "birthday": "2001.09.12",
+    "location": "대전광역시",
+    "email": "yhleep3@naver.com",
+    "phone": "010-8249-6452"
+  },
+  "strengths": [
+    "적극적인 커뮤니케이션",
+    "도전 정신",
+    "꾸준한 노력"
+  ],
+  "skills": [
+    { "name": "JAVA", "progress": 3 }
+  ],
+  "licenses": [
+    "정보처리기사"
+  ],
+  "education": [
+    {
+      "name": "한남대학교",
+      "period": "2024.03.02 ~ 2026.02.20",
+      "gpa": "4.09",
+      "location": "대전광역시 대덕구"
+    }
+  ],
+  "experience": [
+    {
+      "period": "7개월",
+      "company": "올제텍",
+      "term": "2025.08~2026.02",
+      "team": "항공전자SW2팀",
+      "task": "프로그램 개발 및 테스트",
+      "project": {
+        "name": "모의 레이다 SW개발",
+        "term": "2025.10~2025.11",
+        "detail": "WPF를 이용한 SW개발"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "모의 레이다 SW개발 프로젝트",
+      "description": "위치 정보에 따른 UI 및 레이다 동작 기능 구현",
+      "image": "",
+      "link": ""
+    }
+  ]
+}

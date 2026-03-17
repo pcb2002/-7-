@@ -1,68 +1,17 @@
 {
   "id": "pcb2002",
   "name": "박채빈",
-  "subName": "데이터 분석가",
-  "profileImage": "증명사진_박채빈.jpg",
+  "subName": "",
+  "profileImage": "image/github.svg",
   "introduction": {
-    "quote": "데이터로 인사이트를 찾는\n데이터 분석가입니다.",
-    "detail": "대용량 데이터를 분석하여 비즈니스 인사이트를 도출하는 것을 전문으로 합니다. Python과 SQL을 활용하여 데이터를 처리하고 시각화하며, 머신러닝 모델을 구축하여 예측 분석을 수행합니다."
+    "quote": "백엔드와 AI개발을 희망합니다."
   },
   "info": {
-    "description": "Python과 SQL을 활용하여 데이터 분석을 하고 백엔드 공부중입니다.",
-    "birthday": "2002.04.23",
-    "location": "전라남도 목포시",
-    "email": "machat350@gmail.com",
-    "phone": "010-9438-9552"
+    "resolution": "집요하게 파고들겠슴니다."
   },
   "strengths": [
-    "분석력",
-    "체계성",
-    "객관성"
-  ],
-  "skills": [
-    { "name": "Python", "progress": 50 },
-    { "name": "Java", "progress": 40 },
-    { "name": "C", "progress": 30 },
-    { "name": "SQL", "progress": 20 },
-    { "name": "Machine Learning", "progress": 10 }
-  ],
-  "licenses": [
-
-  ],
-  "education": [
-    {
-      "name": "혜인여자 고등학교",
-      "period": "2013.03.02 ~ 2016.02.14",
-      "location": "전라남도 목포시"
-    },
-    {
-      "name": "조선 대학교",
-      "period": "2016.03.02 ~ 2020.02.20",
-      "gpa": "3.7",
-      "location": "광주"
-    }
-  ],
-  "experience": [
-    {
-
-    }
-  ],
-  "projects": [
-    {
-      "title": "AI 기반 근로자 안전 관리 시스템",
-      "description": "역할: 데이터 수집/정제, 시스템 설계, LSTM 모델 학습 및 경량화, 온라인 테스트.\n성과: 라즈베리파이4B 온디바이스 환경 구축, LSTM Autoencoder 도입으로 낙상 감지 최적화, MediaPipe 관절 포인트 축소(33->20)를 통한 실시간성(30FPS) 확보.",
-    },
-    {
-      "title": "고양이 호텔 예약 앱 'Ma_Chat' (1인 개발)",
-      "description": "역할: 기획, 디자인, 안드로이드(Java) 개발, DB 설계.\n내용: SQLite 기반 예약 관리, 웹뷰 및 이중 탭 UI 구현, 예약 날짜 중복 방지 로직 개발."
-    },
-    {
-      "title": "네트워크 마피아 게임 개발",
-      "description": "역할: MFC 인터페이스 구현, 소켓 통신 및 전체 로직 통합.\n내용: TCP/IP 소켓 및 멀티스레드 활용 다중 접속 서버 구현."
-    },
-    {
-      "title": "Unity 힐링 RPG '집사를 구합니다'",
-      "description": "역할: 기획, 스토리, 디자인(픽셀 아트), Unity C# 스크립팅."
-    }
+    "문제 해결 능력",
+    "끈기",
+    "원만한 의사소통"
   ]
 }

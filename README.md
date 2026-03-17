@@ -1,4 +1,5 @@
-(팀원 소개 이미지)-> 각자 작성하시면 최종으로 만들기
+
+<img width="1189" height="907" alt="팀원 소개 페이지" src="https://github.com/user-attachments/assets/41b34b11-0ae1-4062-8fff-f8c3e9a21762" />
 
 ## 프로젝트 구조
 ```
